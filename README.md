@@ -25,11 +25,31 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development**.
-- 📫 How to reach me: **moren.glenardi@gmail.com**
-- ⚡ Fun fact: **I'm a fast learner!**
-- My Portofolio: renfolio.vercel.app
----
+<p align="center">
+  Full-Stack Developer & Design Enthusiast — I love turning ideas into fast, usable, and beautiful web apps.
+</p>
+
+- 🔭 **Currently:** shipping full-stack projects (Laravel + React/Next) with clean architecture & solid DX  
+- 🧠 **Learning:** REST API, clean code architecture, and modern CSS layout patterns  
+- 🎨 **Interests:** design systems, UX micro-interactions, dashboard analytics  
+- 🤝 **Open to:** freelance/collab on impactful products  
+- 📫 **Reach me:** moren.glenardi@gmail.com
+
+<p align="center">
+  <a href="https://renfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-renfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/moreno-hilbran-glenardi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Moreno%20Hilbran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:moren.glenardi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/renoren._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@renoren.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
 
 ### 🧰 Tech Stack
 
