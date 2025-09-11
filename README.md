@@ -53,8 +53,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=morenohilbran&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morenohilbran&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morenohilbran&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
