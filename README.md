@@ -4,6 +4,9 @@
 <h3 align="center">A passionate FullStack Developer and Design Enthusiast</h3>
 
 <p align="center">
+  <img src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s500x750/45790f3cdaafdcc810386e8e54b5c363c6d6a534.gif" width="400" />
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/moreno-hilbran-glenardi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
