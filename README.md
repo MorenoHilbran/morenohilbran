@@ -59,9 +59,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=morenohilbran&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/morenohilbran/morenohilbran/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/morenohilbran/morenohilbran/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/morenohilbran/morenohilbran/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/morenohilbran/morenohilbran/output/snake.svg" alt="Snake animation" />
 </p>
