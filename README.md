@@ -36,6 +36,7 @@
 - 🎨 **Interests:** design systems, UX micro-interactions, dashboard analytics  
 - 🤝 **Open to:** freelance/collab on impactful products  
 - 📫 **Reach me:** moren.glenardi@gmail.com
+- 📫 **Seek more:** [renfolio.vercel.app](https://renfolio.vercel.app/)
 
 
 ### 🧰 Tech Stack
