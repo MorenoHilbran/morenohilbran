@@ -42,7 +42,7 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
+<p align="left">
   <!-- Edit daftar setelah i= untuk menambah/menghapus icon -->
   <img
     src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,svelte,tailwind,laravel,php,nodejs,express,mysql,postgres,oracle,prisma,redis,git,github,figma,vercel,docker&perline=10"
