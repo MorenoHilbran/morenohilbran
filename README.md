@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Moreno Hilbran Glenardi</h1>
 <h3 align="center">A passionate FullStack Developer and Design Enthusiast</h3>
+<h3 align="left">find me: [renfolio.vercel.app](https://renfolio.vercel.app/)</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/25e24cda3a4f2c25a2586cb2eccfc223/886db1edfbdcc880-f5/s500x750/45790f3cdaafdcc810386e8e54b5c363c6d6a534.gif" width="400" />
@@ -36,7 +37,7 @@
 - 🎨 **Interests:** design systems, UX micro-interactions, dashboard analytics  
 - 🤝 **Open to:** freelance/collab on impactful products  
 - 📫 **Reach me:** moren.glenardi@gmail.com
-- 📫 **Seek more:** [renfolio.vercel.app](https://renfolio.vercel.app/)
+
 
 
 ### 🧰 Tech Stack
